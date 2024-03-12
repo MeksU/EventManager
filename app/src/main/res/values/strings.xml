@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventManager</string>
+    <string name="update_event">Update Event</string>
+    <string name="add_event">Add Event</string>
+</resources>
